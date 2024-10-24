@@ -1,0 +1,72 @@
+.footer {
+    /* background-color:#747474; */
+    background-color:rgba(109, 111, 114);
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-top: 1px solid #ccc; /* Optional: Adds a top border to separate footer */
+    height: auto;              /* Auto height based on content */
+    flex-wrap: wrap;            /* Ensures content wraps on smaller screens */
+    color: white;
+}
+
+.copyRight {
+    flex: 1;                    /* Allows this section to grow */
+    text-align: center;
+}
+
+.mobNum, .email1, .follow {
+    flex: 1;
+    text-align: center;
+}
+
+.copyRight p {
+    margin: 0;
+    font-size: 14px;
+    color:white;
+}
+
+.mobNum h5, .email1 h5, .follow h5 {
+    margin: 0;
+    font-size: 16px;
+    color: white;
+    /* color: #0076ff;             Styling for the titles */
+}
+
+.mobNum p, .email1 p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color:white;
+}
+
+.follow h5 {
+    margin-bottom: 5px;
+    font-size: 16px;
+    
+}
+.folow_logo{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+.folow_logo img{
+height: 25px;
+width: 25px;
+cursor: pointer;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .footer {
+        flex-direction:column-reverse;    /* Stack content vertically on smaller screens */
+        text-align: center;        /* Center content */
+    }
+
+    .copyRight, .mobNum, .email1, .follow {
+        margin-bottom: 15px;
+    }
+}
+
+
