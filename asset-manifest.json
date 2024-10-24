@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Port_folio/static/css/main.6289f679.css",
+    "main.js": "/Port_folio/static/js/main.b689287f.js",
+    "static/js/453.1407b060.chunk.js": "/Port_folio/static/js/453.1407b060.chunk.js",
+    "static/media/css_html.PNG": "/Port_folio/static/media/css_html.adab8aec02341b102208.PNG",
+    "static/media/js_project.PNG": "/Port_folio/static/media/js_project.9499a54fdb47810efc47.PNG",
+    "static/media/js_react.PNG": "/Port_folio/static/media/js_react.194d6abfb9c9a1242035.PNG",
+    "static/media/resume-1.png": "/Port_folio/static/media/resume-1.23000d93b69082f0e9af.png",
+    "static/media/instagram-logo.png": "/Port_folio/static/media/instagram-logo.e719d8b29f452a16302d.png",
+    "static/media/atom.png": "/Port_folio/static/media/atom.52de6422409ad1571d1f.png",
+    "static/media/databases.png": "/Port_folio/static/media/databases.4986de5fe85d722f0490.png",
+    "static/media/profile.png": "/Port_folio/static/media/profile.4bb671e7777621c71d6a.png",
+    "static/media/nodejs.png": "/Port_folio/static/media/nodejs.09a558a790ef641b1f67.png",
+    "static/media/profile_photo.jpg": "/Port_folio/static/media/profile_photo.162ce57209782a211c08.jpg",
+    "static/media/js.png": "/Port_folio/static/media/js.e9d170f029643ca8763d.png",
+    "static/media/message.png": "/Port_folio/static/media/message.f249b38224ca41a0b909.png",
+    "static/media/css-3.png": "/Port_folio/static/media/css-3.7654ce00c5ac2e76e015.png",
+    "index.html": "/Port_folio/index.html",
+    "main.6289f679.css.map": "/Port_folio/static/css/main.6289f679.css.map",
+    "main.b689287f.js.map": "/Port_folio/static/js/main.b689287f.js.map",
+    "453.1407b060.chunk.js.map": "/Port_folio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6289f679.css",
+    "static/js/main.b689287f.js"
+  ]
+}
