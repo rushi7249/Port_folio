@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Port_folio/static/css/main.2ec4657a.css",
-    "main.js": "/Port_folio/static/js/main.1dc17164.js",
+    "main.js": "/Port_folio/static/js/main.62d8c0ab.js",
     "static/js/453.1407b060.chunk.js": "/Port_folio/static/js/453.1407b060.chunk.js",
     "static/media/css_html.PNG": "/Port_folio/static/media/css_html.adab8aec02341b102208.PNG",
     "static/media/js_project.PNG": "/Port_folio/static/media/js_project.9499a54fdb47810efc47.PNG",
     "static/media/js_react.PNG": "/Port_folio/static/media/js_react.194d6abfb9c9a1242035.PNG",
-    "static/media/resume-1.png": "/Port_folio/static/media/resume-1.23000d93b69082f0e9af.png",
+    "static/media/Rushikesh_cv.pdf": "/Port_folio/static/media/Rushikesh_cv.23deed49f1f7ffc189ce.pdf",
     "static/media/instagram-logo.png": "/Port_folio/static/media/instagram-logo.e719d8b29f452a16302d.png",
     "static/media/atom.png": "/Port_folio/static/media/atom.52de6422409ad1571d1f.png",
     "static/media/databases.png": "/Port_folio/static/media/databases.4986de5fe85d722f0490.png",
@@ -18,11 +18,11 @@
     "static/media/css-3.png": "/Port_folio/static/media/css-3.7654ce00c5ac2e76e015.png",
     "index.html": "/Port_folio/index.html",
     "main.2ec4657a.css.map": "/Port_folio/static/css/main.2ec4657a.css.map",
-    "main.1dc17164.js.map": "/Port_folio/static/js/main.1dc17164.js.map",
+    "main.62d8c0ab.js.map": "/Port_folio/static/js/main.62d8c0ab.js.map",
     "453.1407b060.chunk.js.map": "/Port_folio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ec4657a.css",
-    "static/js/main.1dc17164.js"
+    "static/js/main.62d8c0ab.js"
   ]
 }
