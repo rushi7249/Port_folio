@@ -6,13 +6,12 @@ import Contact from "../Pages/Contact";
 import About from "../Pages/About";
 
 const Routing = () => {
-  const navigate = useNavigate();
-  const location = useLocation();
+ 
 
 
   return (
     <Routes>
-      <Route path="/" element={<About />} />
+      <Route path="/" element={<About/>} />
       <Route path="/about" element={<About />} />
       <Route path="/resume" element={<Resume />} />
       <Route path="/skills" element={<Skill />} />

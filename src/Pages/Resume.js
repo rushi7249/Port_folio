@@ -1,6 +1,6 @@
 import React from "react"
 import "./Resume.css"
-import resumefile from "../Imges/resume-1.png"
+import rushikesh_cv from "../Imges/Rushikesh_cv.pdf"
 const Resume = () => {
     return (
         <>
@@ -11,7 +11,7 @@ const Resume = () => {
                 <div className="content_resume">
                     <div className="heading">
                         <h4>Experience</h4>
-                        <a href={resumefile} download>
+                        <a href={rushikesh_cv} download>
                         <button>DOWNLOAD CV</button>
                         </a>
                     </div>

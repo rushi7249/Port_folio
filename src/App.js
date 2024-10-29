@@ -6,12 +6,13 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import Footer from './Component/Footer';
 import ScrollToTop from './Component/ScrollToTop';
 
+
 function App() {
  
   return (
     <div className="App">
       
-      <Router>
+      <Router basename="/Port_folio">
       <ScrollToTop />
         <NavBar /> 
         <Routing />
